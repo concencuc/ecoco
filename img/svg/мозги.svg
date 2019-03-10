@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2018 (64-Bit Оценочная версия) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="500px" height="500px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 500 500"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str6 {stroke:#73C012;stroke-width:6.133;stroke-miterlimit:2.61313}
+    .str7 {stroke:#73C012;stroke-width:6.133;stroke-miterlimit:2.61313}
+    .str2 {stroke:#73C012;stroke-width:6.133;stroke-miterlimit:2.61313}
+    .str5 {stroke:#73C012;stroke-width:6.133;stroke-miterlimit:2.61313}
+    .str4 {stroke:#73C012;stroke-width:6.133;stroke-miterlimit:2.61313}
+    .str3 {stroke:#73C012;stroke-width:6.133;stroke-miterlimit:2.61313}
+    .str1 {stroke:#73C012;stroke-width:16.355;stroke-linecap:round;stroke-miterlimit:2.61313}
+    .str0 {stroke:#73C012;stroke-width:8.177;stroke-linecap:round;stroke-miterlimit:2.61313}
+    .str8 {stroke:#73C012;stroke-width:8.178;stroke-linecap:round;stroke-miterlimit:2.61313}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polyline class="fil0 str0" points="235.316,439.516 235.316,62.584 186.049,33.65 134.436,62.584 135.174,121.196 "/>
+  <polyline class="fil0 str0" points="134.665,86.05 83.606,117.325 83.606,154.079 134.436,183.796 134.436,236.974 "/>
+  <polyline class="fil0 str0" points="134.436,183.796 186.049,150.951 186.049,93.909 "/>
+  <polyline class="fil0 str0" points="83.606,154.079 34.339,182.231 34.339,318.302 84.386,348.019 134.436,318.302 134.436,289.367 83.606,259.652 83.606,231.543 "/>
+  <line class="fil0 str0" x1="34.339" y1="274.511" x2="71.382" y2= "295.255" />
+  <polyline class="fil0 str0" points="134.436,318.302 185.268,348.019 184.656,410.539 "/>
+  <polyline class="fil0 str0" points="84.386,348.019 84.386,383.993 132.873,411.362 132.873,375.435 "/>
+  <polyline class="fil0 str0" points="132.873,411.362 132.873,437.951 184.486,467.668 235.316,439.516 "/>
+  <polyline class="fil0 str1" points="266.673,63.383 266.673,440.315 315.94,469.249 367.553,440.315 366.77,359.768 "/>
+  <polyline class="fil0 str1" points="367.323,416.849 418.383,385.574 418.383,348.82 367.553,319.103 367.553,265.925 "/>
+  <polyline class="fil0 str1" points="367.553,319.103 315.94,351.948 315.94,426.239 "/>
+  <polyline class="fil0 str1" points="418.383,348.82 467.65,320.668 467.65,184.598 417.602,154.88 367.553,184.598 367.553,213.532 418.383,243.247 418.383,288.605 "/>
+  <line class="fil0 str1" x1="467.65" y1="228.388" x2="409" y2= "195.545" />
+  <polyline class="fil0 str1" points="367.553,184.598 316.721,154.88 317.503,75.114 "/>
+  <polyline class="fil0 str1" points="417.602,154.88 417.602,118.907 369.116,91.537 369.116,144.713 "/>
+  <polyline class="fil0 str1" points="369.116,91.537 369.116,64.949 317.503,35.231 266.673,63.383 "/>
+  <polyline class="fil0 str1" points="266.673,336.307 316.721,303.461 317.503,251.069 "/>
+  <line class="fil0 str1" x1="266.673" y1="179.121" x2="342.527" y2= "221.352" />
+  <ellipse class="fil0 str2" cx="86.179" cy="303.54" rx="16.866" ry="17.249"/>
+  <ellipse class="fil0 str3" cx="83.606" cy="214.294" rx="16.866" ry="17.249"/>
+  <ellipse class="fil0 str4" cx="186.048" cy="76.66" rx="16.866" ry="17.249"/>
+  <ellipse class="fil0 str5" cx="135.174" cy="138.446" rx="16.866" ry="17.249"/>
+  <ellipse class="fil0 str6" cx="132.873" cy="358.186" rx="16.866" ry="17.249"/>
+  <ellipse class="fil0 str7" cx="184.485" cy="427.786" rx="16.866" ry="17.249"/>
+  <polyline class="fil0 str8" points="235.316,165.176 184.656,198.423 183.852,252.256 "/>
+  <line class="fil0 str8" x1="234.985" y1="325.573" x2="158.14" y2= "282.789" />
+ </g>
+</svg>

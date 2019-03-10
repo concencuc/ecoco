@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2018 (64-Bit Оценочная версия) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1000px" height="1294px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1000 1294.12"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#DEDEDE;stroke-width:15.55;stroke-miterlimit:2.61313}
+    .str6 {stroke:#DEDEDE;stroke-width:18.66;stroke-miterlimit:2.61313}
+    .str4 {stroke:#DEDEDE;stroke-width:10.36;stroke-miterlimit:2.61313}
+    .str0 {stroke:#DEDEDE;stroke-width:24.87;stroke-miterlimit:2.61313}
+    .str2 {stroke:#DEDEDE;stroke-width:20.73;stroke-miterlimit:2.61313}
+    .str5 {stroke:#DEDEDE;stroke-width:16.59;stroke-miterlimit:2.61313}
+    .str3 {stroke:#DEDEDE;stroke-width:8.29;stroke-miterlimit:2.61313}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <line class="fil0 str0" x1="470.71" y1="388.36" x2="470.71" y2= "0.24" />
+  <line class="fil0 str1" x1="514.24" y1="160.32" x2="514.24" y2= "0.24" />
+  <line class="fil0 str2" x1="566.07" y1="84.66" x2="566.07" y2= "0.24" />
+  <line class="fil0 str3" x1="426.14" y1="213.19" x2="426.14" y2= "0.24" />
+  <polyline class="fil0 str0" points="470.71,508.06 470.71,16.12 470.71,627.79 "/>
+  <polyline class="fil0 str1" points="514.24,16.12 514.24,250.45 943.9,364.27 942.71,430.66 "/>
+  <polyline class="fil0 str2" points="566.07,16.12 566.07,215.77 883.24,297.84 "/>
+  <line class="fil0 str3" x1="426.14" y1="189.94" x2="426.14" y2= "16.12" />
+  <line class="fil0 str1" x1="814.14" y1="329.48" x2="811.53" y2= "474.86" />
+  <polyline class="fil0 str4" points="470.71,324.98 647.95,372.38 647.95,434.38 "/>
+  <polyline class="fil0 str2" points="470.71,348.84 95.49,451.35 95.49,491.4 "/>
+  <line class="fil0 str5" x1="247.59" y1="409.79" x2="246.83" y2= "565.62" />
+  <line class="fil0 str1" x1="814.14" y1="329.48" x2="811.53" y2= "474.86" />
+  <line class="fil0 str0" x1="470.71" y1="508.75" x2="566.07" y2= "508.91" />
+  <line class="fil0 str6" x1="555.89" y1="511.3" x2="555.52" y2= "592.28" />
+  <polyline class="fil0 str4" points="470.71,324.98 647.95,372.38 647.95,434.38 "/>
+  <line class="fil0 str3" x1="426.14" y1="210.56" x2="72.69" y2= "295.59" />
+  <line class="fil0 str3" x1="258.24" y1="251.56" x2="260.27" y2= "344.31" />
+  <polyline class="fil0 str2" points="470.71,348.84 95.49,451.35 95.49,491.4 "/>
+  <line class="fil0 str5" x1="247.59" y1="409.79" x2="246.83" y2= "565.62" />
+  <line class="fil0 str0" x1="470.71" y1="508.75" x2="566.07" y2= "508.91" />
+  <line class="fil0 str6" x1="555.89" y1="511.3" x2="555.52" y2= "592.28" />
+ </g>
+</svg>
