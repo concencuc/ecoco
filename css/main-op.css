@@ -37,11 +37,11 @@ body {
   margin: 0; }
 
 #section-banner {
-  background: url(../img/newAndrey/banner-fon.png) center no-repeat;
+  background: url(../img/newAndrey/banner-fon.png) bottom no-repeat fixed;
   background-size: cover;
-  height: 100vh;
   width: 100%;
-  position: relative; }
+  position: relative;
+  height: 1080px; }
   #section-banner .content {
     -webkit-box-pack: center;
         -ms-flex-pack: center;

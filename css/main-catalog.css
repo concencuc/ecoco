@@ -36,7 +36,24 @@ body {
   overflow-x: hidden;
   margin: 0; }
 
+.header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: fixed;
+  top: 0;
+  background-color: white;
+  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); }
+  .header p, .header a, .header span {
+    color: black; }
+  .header .order a {
+    color: white; }
+  .header .lk a:before {
+    content: url(../img/ico/userLKfixed.png); }
+
 #section-intro {
+  margin-top: 10rem;
   color: #ffffff;
   height: 670px;
   background: url(../img/newAndrey/catalog-fon.png) top center no-repeat; }
@@ -78,8 +95,17 @@ body {
     height: 540px;
     -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    border-radius: 80px;
+    border-radius: 40px;
     background-color: #ffffff; }
+    #section-catalog .catalog-item__text .item-img-wrap {
+      height: 200px;
+      width: 100%; }
+      #section-catalog .catalog-item__text .item-img-wrap img {
+        -o-object-fit: cover;
+           object-fit: cover;
+        border-radius: 40px 40px 0 0;
+        width: 100%;
+        height: 100%; }
     #section-catalog .catalog-item__text .item-title-wrap {
       padding: 0rem 1.4rem; }
       #section-catalog .catalog-item__text .item-title-wrap h3 {
@@ -127,7 +153,9 @@ body {
     font-weight: 400; }
     #section-catalog .catalog-more-btn a:after {
       content: url(../img/newAndrey/arrow.png);
-      padding-left: 0.6rem; }
+      padding-left: 0.6rem;
+      position: relative;
+      top: 4px; }
 
 #section-offer h3 {
   opacity: 1; }
